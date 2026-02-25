@@ -1,6 +1,6 @@
 ## Hello, my name is Alex Gibson
 
-I'm a Product person, founder, & builder of AI-native products.
+I'm a Product person, founder, & builder of software & AI products.
 
 I work at the messy edge of 0→1: discovering problems, shaping strategy, & shipping real systems.
 
@@ -11,9 +11,7 @@ I work at the messy edge of 0→1: discovering problems, shaping strategy, & shi
 ### [Sema](https://withsema.com)
 Universal ingestion & context engineering infrastructure for AI agents.
 
-Monorepo SaaS + docs
-AWS CDK infrastructure
-Docling · Presidio · Keycloak
+Production SaaS on AWS - built with Keycloak, Docling, Presidio, & AWS CDK
 Python & Node SDKs (PyPI / npm)
 
 Documentation: https://docs.withsema.com
