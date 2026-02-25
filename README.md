@@ -1,4 +1,4 @@
-# Hello, my name is Alex Gibson
+## Hello, my name is Alex Gibson
 
 I'm a Product person, founder, & builder of AI-native products.
 
