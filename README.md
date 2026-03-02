@@ -21,10 +21,6 @@ Examples: https://github.com/Chickadee-Software/sema-examples
 
 ## Open Source
 
-### [mentionkit](https://github.com/agibson22/mentionkit)
-Secure, structured @mentions for LLM chat interfaces.  
-TypeScript · npm
-
 ### [agent-registry-router](https://github.com/agibson22/agent-registry-router)
 Registry-driven routing for multi-LLM systems.  
 Python · PyPI
